@@ -4,12 +4,6 @@ This repository contains netlist-based LTspice simulations of fundamental
 analog CMOS circuits developed for learning and verification of analog
 integrated circuit design concepts.
 
-The focus is on understanding:
-- DC biasing and operating-point analysis
-- Small-signal behavior and gain
-- Frequency response and stability
-- Compensation techniques in multi-stage amplifiers
-
 All circuits are implemented using LTspice netlists and generic MOS models.
 No proprietary process design kits (PDKs) are used.
 
@@ -33,11 +27,4 @@ Current designs include:
 - Designs are intended for conceptual understanding, not tape-out
 - Results are qualitative and topology-focused
 
-## How to Use
-1. Navigate to a circuit folder
-2. Open the netlist in LTspice
-3. Run `.op` for DC bias verification
-4. Run `.ac` for small-signal analysis
-
-## Repository Structure (Example)
 
