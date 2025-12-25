@@ -14,22 +14,6 @@ The same circuit topology is used for DC operating point, transient, and AC anal
 
 
 
-\## Circuit Topology
-
-
-
-The common-source amplifier topology used for this analysis is shown below:
-
-
-
-!\[Common Source Amplifier Circuit](opamps/common_source/CS_circuit.png)
-
-
-
----
-
-
-
 \## DC Operating Point Analysis (.op)
 
 
