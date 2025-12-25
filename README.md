@@ -20,6 +20,7 @@ Current designs include:
 
 ## Tools Used
 - HSPICE
+- Waveform analysis is performed using Custom WaveView
 - LTspice XVII
 - Netlist-based SPICE simulation
 
