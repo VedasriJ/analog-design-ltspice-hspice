@@ -10,7 +10,7 @@ The same circuit topology was used for DC operating point, transient, and AC ana
 
 The common-source amplifier circuit used for this analysis is shown below:
 
-![Common Source Amplifier Circuit](CS_circuit.png)
+![Common Source Amplifier Circuit](opamps/common_source/CS_circuit.png)
 
 ---
 
